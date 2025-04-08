@@ -1,4 +1,4 @@
-# linux-projeto3-docker
+# Projeto3
 Projeto 3 do curso DIO Santander Linux para iniciantes. 
 Aluno: Antonio Augusto Borges
 
